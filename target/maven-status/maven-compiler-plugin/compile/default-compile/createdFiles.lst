@@ -1,0 +1,7 @@
+com\example\habittrackerbackend\Model\habits\Habits$HabitsBuilder.class
+com\example\habittrackerbackend\HabitTrackerBackendApplication.class
+com\example\habittrackerbackend\Dao\habits\HabitsRepository.class
+com\example\habittrackerbackend\Service\habits\HabitsService.class
+com\example\habittrackerbackend\Web\Controller\HabitsController.class
+com\example\habittrackerbackend\Model\habits\Habits.class
+com\example\habittrackerbackend\Web\ViewModel\HabitsViewModel.class
